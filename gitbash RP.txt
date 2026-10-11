@@ -1,0 +1,19 @@
+Welcome to SWE Lab
+
+...................................................
+
+New Repo push command :
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/jahidhasan75/241400039.git
+git push -u origin main
+
+..........................................................
+
+Existing Repo Commoit Command :
+git add .
+git commit -m "Update files"
+git pull origin main --rebase
+git push origin main amon jani ki ki
